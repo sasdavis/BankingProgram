@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\user\\Documents\\code\\AccountsClass\\AccountsClass.csproj": {}
+    "C:\\Users\\user\\Documents\\code\\BankingProgram\\AccountsClass.csproj": {}
   },
   "projects": {
-    "C:\\Users\\user\\Documents\\code\\AccountsClass\\AccountsClass.csproj": {
+    "C:\\Users\\user\\Documents\\code\\BankingProgram\\AccountsClass.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\user\\Documents\\code\\AccountsClass\\AccountsClass.csproj",
+        "projectUniqueName": "C:\\Users\\user\\Documents\\code\\BankingProgram\\AccountsClass.csproj",
         "projectName": "AccountsClass",
-        "projectPath": "C:\\Users\\user\\Documents\\code\\AccountsClass\\AccountsClass.csproj",
+        "projectPath": "C:\\Users\\user\\Documents\\code\\BankingProgram\\AccountsClass.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\user\\Documents\\code\\AccountsClass\\obj\\",
+        "outputPath": "C:\\Users\\user\\Documents\\code\\BankingProgram\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config"

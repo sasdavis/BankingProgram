@@ -2,7 +2,6 @@ using System;
 using SplashKitSDK;
 
 //Class
-//testing git
 public class Account
 {
     private decimal _balance;

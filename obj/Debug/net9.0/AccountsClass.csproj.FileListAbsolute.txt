@@ -1,0 +1,14 @@
+C:\Users\user\Documents\Code\AccountsClass\bin\Debug\net9.0\AccountsClass.exe
+C:\Users\user\Documents\Code\AccountsClass\bin\Debug\net9.0\AccountsClass.deps.json
+C:\Users\user\Documents\Code\AccountsClass\bin\Debug\net9.0\AccountsClass.runtimeconfig.json
+C:\Users\user\Documents\Code\AccountsClass\bin\Debug\net9.0\AccountsClass.dll
+C:\Users\user\Documents\Code\AccountsClass\bin\Debug\net9.0\AccountsClass.pdb
+C:\Users\user\Documents\Code\AccountsClass\obj\Debug\net9.0\AccountsClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\Code\AccountsClass\obj\Debug\net9.0\AccountsClass.AssemblyInfoInputs.cache
+C:\Users\user\Documents\Code\AccountsClass\obj\Debug\net9.0\AccountsClass.AssemblyInfo.cs
+C:\Users\user\Documents\Code\AccountsClass\obj\Debug\net9.0\AccountsClass.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\Code\AccountsClass\obj\Debug\net9.0\AccountsClass.dll
+C:\Users\user\Documents\Code\AccountsClass\obj\Debug\net9.0\refint\AccountsClass.dll
+C:\Users\user\Documents\Code\AccountsClass\obj\Debug\net9.0\AccountsClass.pdb
+C:\Users\user\Documents\Code\AccountsClass\obj\Debug\net9.0\AccountsClass.genruntimeconfig.cache
+C:\Users\user\Documents\Code\AccountsClass\obj\Debug\net9.0\ref\AccountsClass.dll
